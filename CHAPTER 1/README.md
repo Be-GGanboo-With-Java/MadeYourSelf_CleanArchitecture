@@ -22,7 +22,7 @@
 > 1. DAO 계층.
 > 2. Database/Messaging Queue/외부 API 와의 통신 등 처리
 > 
-> ![](/images/계층형.png)
+> ![](./images/계층형.png)
 
 > **나눠볼 얘기들**
 > 
