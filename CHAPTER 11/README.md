@@ -8,6 +8,8 @@ redirect_from:
 
 ---
 
+[이글을 읽기엔 블로그에 최적화 되어있습니다.](https://k-diger.github.io/makeyourselfcleanarchitecturechapter11)
+
 # CHAPTER 11. 의식적으로 지름길 사용하기
 
 ---
