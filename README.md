@@ -23,3 +23,16 @@
 |CHAPTER 04|K-Diger|[유스케이스 구현하기](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%204)|
 |CHAPTER 05|GroovyArea|[웹 어댑터 구현하기](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%205)|
 |CHAPTER 06|GroovyArea|[영속성 어댑터 구현하기](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%206)|
+
+---
+
+# 2주차 [2022/11/11]
+
+|챕터|발표자|정리본|
+|:---:|:---:|:---:|
+|CHAPTER 07||[](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%207)|
+|CHAPTER 08||[](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%208)|
+|CHAPTER 09||[](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%209)|
+|CHAPTER 10||[](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%2010)|
+|CHAPTER 11|K-Diger|[의식적으로 지름길 사용하기](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%2011)|
+|CHAPTER 12|공통|[영속성 어댑터 구현하기](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%2012)|
