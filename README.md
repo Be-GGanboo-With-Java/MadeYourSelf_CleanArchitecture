@@ -28,11 +28,11 @@
 
 # 2주차 [2022/11/11]
 
-|챕터|발표자|정리본|
-|:---:|:---:|:---:|
-|CHAPTER 07||[](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%207)|
-|CHAPTER 08||[](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%208)|
-|CHAPTER 09||[](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%209)|
-|CHAPTER 10||[](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%2010)|
-|CHAPTER 11|K-Diger|[의식적으로 지름길 사용하기](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%2011)|
-|CHAPTER 12|공통|[영속성 어댑터 구현하기](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%2012)|
+|챕터|                                               발표자                                                |정리본|
+|:---:|:------------------------------------------------------------------------------------------------:|:---:|
+|CHAPTER 07|JIWON-JEONG| [육각형 아키텍처에서 테스트 전략](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%207) |
+|CHAPTER 08|JIWON-JEONG| [경계간 매핑하기](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%208) |
+|CHAPTER 09|GroovyArea| [애플리케이션 조립하기](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%209) |
+|CHAPTER 10|                                            GroovyArea                                            |[아키텍처 경계 강제하기](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%2010)|
+|CHAPTER 11|                                             K-Diger                                              |[의식적으로 지름길 사용하기](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%2011)|
+|CHAPTER 12|                                                공통                                                |[영속성 어댑터 구현하기](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture/tree/main/CHAPTER%2012)|
