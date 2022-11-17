@@ -9,5 +9,4 @@ public class DanielTheRaisingLivestockApplication {
     public static void main(String[] args) {
         SpringApplication.run(DanielTheRaisingLivestockApplication.class, args);
     }
-
 }
